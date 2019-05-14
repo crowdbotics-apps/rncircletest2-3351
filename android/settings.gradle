@@ -1,0 +1,3 @@
+rootProject.name = 'rncircletest2_3351'
+
+include ':app'
